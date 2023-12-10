@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import logo from '../assets/images/logo-DH.png'
+import logo from '../assets/images/logotiendanuevo2.png'
 
 function Sidebar() {
 

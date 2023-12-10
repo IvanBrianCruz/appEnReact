@@ -33,7 +33,7 @@ function LastGame(props) {
       ) : (
         
         
-        <div className="col-lg-6 mb-4">
+        <div className="col-lg-6 mb-4" style={{ marginLeft: "100px", marginTop: "30px"}}>
           <div className="card shadow mb-4">
             
           <div className="card-body">
